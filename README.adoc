@@ -1,0 +1,3 @@
+= Attendance-Tracker
+
+This is a attendance traacker I created to easily track attendance of large groups of people 
